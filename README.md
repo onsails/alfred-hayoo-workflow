@@ -5,7 +5,7 @@ the documentation page for the selected option or a package page on hackage.
 
 Usage: `ho [query]` or `hayoo [query]` for function search and `hp [package]` or `hayoop [package]` for package search.
 
-[Download](package/Hayoo.alfredworkflow)
+[Download](https://github.com/prettynatty/alfred-hayoo-workflow/blob/master/package/Hayoo.alfredworkflow?raw=true)
 
 ![function search](screenshots/function.png)
 ![package search](screenshots/package.png)
