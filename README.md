@@ -7,5 +7,5 @@ Usage: `ho [query]` or `hayoo [query]` for function search and `hp [package]` or
 
 [DOWNLOAD](package/Hayoo.alfredworkflow)
 
-![function search][screenshots/function.png]
-![package search][screenshots/package.png]
+![function search](screenshots/function.png)
+![package search](screenshots/package.png)
